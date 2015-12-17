@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_busacr_upor_id"
+    tools:context="com.trejo.root.registrousuardirecciones.BusacrUporId"
+    android:orientation="vertical"
+    android:background="#ce3030"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/labelid"/>
+    <EditText
+        android:id="@+id/idUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textViewid"/>
+    <Button
+        android:id="@+id/btnBuscarIdUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnBuscarId"/>
+    <TextView
+        android:id="@+id/labelIdNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre" />
+    <TextView
+        android:id="@+id/labelIdCorreo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Correo"/>
+    <TextView
+        android:id="@+id/labelIdPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"/>
+    <TextView
+        android:id="@+id/labelErrorId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Sin errores"/>
+
+
+
+
+
+
+</LinearLayout>

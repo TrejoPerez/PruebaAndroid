@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Menu de incio</string>
+    <string name="action_settings">Settings</string>
+    <string name="Nombrep">Nombre</string>
+    <string name="Correop">Correo</string>
+    <string name="Passwordp">Password</string>
+    <string name="inNombre">Ingresar tu nombre</string>
+    <string name="inCorreo">Ingresa tu correo</string>
+    <string name="inPassword">Ingresa tu password</string>
+    <string name="btnDireccion">registra tu direccion</string>
+    <string name="title_activity_main2_activity_ventana">Registro de direccion</string>
+    <string name ="Callep">Calle</string>
+    <string name="inCalle">Ingresa tu calle</string>
+    <string name="Coloniap">Colonia</string>
+    <string name="inColoniap">Ingresa tu colonia</string>
+    <string name="Cp">Codigo Postal</string>
+    <string name="inCp">Ingresa tu codigo postal</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="textEstado">Sin ragistrar</string>
+    <string name="title_activity_ventana_inicio">Registrar Usuario</string>
+
+    <!---->
+    <!--Botones de la ventana "Ventana incio"-->
+    <string name="btnRegistroU">Agregar Usuario</string>
+    <string name="btnBuscarU">Buscar usuario por id</string>
+    <string name="title_activity_busacr_upor_id">BusacrUporId</string>
+    <!--Botones de la ventana "Buscar por id"-->
+    <string name="labelid">Id del usuario</string>
+    <string name="textViewid">Id usuario</string>
+    <string name="btnBuscarId">Buscar</string>
+
+</resources>

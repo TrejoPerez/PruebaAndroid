@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.trejo.root.registrousuardirecciones.MainActivity"/>
+      <point      
+        x = "38"      
+        y = "1311"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.trejo.root.registrousuardirecciones.BusacrUporId"/>
+      <point      
+        x = "2057"      
+        y = "29"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.trejo.root.registrousuardirecciones.Main2ActivityVentana"/>
+      <point      
+        x = "1113"      
+        y = "1476"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.trejo.root.registrousuardirecciones.VentanaInicio"/>
+      <point      
+        x = "895"      
+        y = "9"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
